@@ -1,0 +1,6 @@
+var number = "12";
+if (number !== 10) {
+    console.log("Podana liczba jest większa niż 10");
+} else {
+    console.log("Podana liczba nie jest większa niż 10");
+}
